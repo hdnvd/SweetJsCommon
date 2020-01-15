@@ -1,2 +1,3 @@
 import Common from './Common';
-export {Common};
+import SweetHttpRequest from './sweet-http-request';
+export {Common,SweetHttpRequest};
